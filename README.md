@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pacifique5&theme=dark&hide_border=false&layout=compact&cache_seconds=0)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pacifique5&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Pacifique5&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&cache_seconds=0)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pacifique5&limit=5&theme=dark&combine_all_yearly_contributions=true)
